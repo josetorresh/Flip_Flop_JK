@@ -1,0 +1,8 @@
+#ENTRADAS
+net J loc = M1;
+net K loc = P2;
+net CLK loc = E7;
+net RST loc = T7;
+#SALIDAS
+net Q loc = M4;
+net QBAR loc = R1;
